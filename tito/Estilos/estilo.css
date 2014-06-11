@@ -1,0 +1,78 @@
+body {
+	font-family: 'Lucida grande';
+	font-size: 16px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px; 
+	color: #fff;
+}
+
+.imagenPerfil{
+  width:1024px;
+  height:800px; 
+}
+
+#login {
+    padding: 5px 0px;
+    background-color: #ff0650;
+    overflow:hidden;
+    font-family:'lucida grande',arial,sans-serif;
+    font-size: 11px;
+  }
+
+#login input[type=text]
+#login input[type=password] {
+    width: 170px;
+    border: 1px solid #000;
+ }
+
+#login input[type=checkbox] { 
+     margin:auto;
+    vertical-align:top;  
+}
+#login input[type=submit] {
+  font-family:'lucida grande',arial,sans-serif;
+    font-size: 11px;
+    color: #06ffe6;
+    font-weight:bold;
+    line-height:13px;
+    background-color:#5b74a8;
+    padding:3px 5px;
+    border:1px solid;
+ }
+
+.contenedor {
+ clear:both 
+  }
+  .contenedor>div {
+  float:left;
+  width: 170px;
+  padding: 0px 10px;
+}
+
+.texto a {
+  color:#ffffff;
+  text-decoration:none;
+}
+
+.logo { 
+	clear: both
+}
+
+.logo>div {
+	float: right
+}
+
+#logo-a {
+	float: right;
+ 	color: #ffffff;
+	text-decoration: none;
+  margin: auto;
+  left: 0px;
+  right: 0px;
+}
+
+
+
+
+
